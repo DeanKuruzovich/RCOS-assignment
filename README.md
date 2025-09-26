@@ -1,2 +1,3 @@
 Dean Kuruzovich
-RCOS-assignment/IMG_4871.jpeg
+![Alt text](RCOS-assignment/IMG_4871.jpeg)
+
